@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const cardsData = [
-    { id: 1, frontIcon: "❤️", text: "بحبك", backContent: "أنتِ أجمل حاجة حصلتلي.. طول العمر معاكي", color: "from-pink-500" },
+    { id: 1, frontIcon: "❤️", text: "بحبك", backContent: "أنتِ أجمل حاجة حصلتلي .. طول العمر معاكي", color: "from-pink-500" },
     { id: 2, frontIcon: "✨", text: "بموت فيكي", backContent: "ضحكتك هي السبب اللي بيخليني أبتسم كل يوم", color: "from-purple-500" },
     { id: 3, frontIcon: "🔒", text: "بعشقك", backContent: "قلبي ملكك لوحدك، للأبد", color: "from-red-500" },
 ];
