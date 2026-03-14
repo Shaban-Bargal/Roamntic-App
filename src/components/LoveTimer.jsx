@@ -73,7 +73,7 @@ const LoveTimer = () => {
                 <div className="h-[1px] w-8 bg-pink-500/50" />
                 <div className="px-6 py-2 rounded-full border border-pink-500/20 bg-pink-500/5 backdrop-blur-md flex items-center gap-3 shadow-[0_0_20px_rgba(236,72,153,0.1)]">
                     <span className="text-pink-500 text-xs italic font-serif">Since</span>
-                    <span className="text-white font-mono text-xs md:text-sm tracking-[0.3em] font-bold">04 / 04 / 2021</span>
+                    <span className="text-white font-mono text-xs md:text-sm tracking-[0.3em] font-bold">04/04/2021</span>
                 </div>
                 <div className="h-[1px] w-8 bg-pink-500/50" />
             </motion.div>
