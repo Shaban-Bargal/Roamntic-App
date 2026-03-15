@@ -52,7 +52,7 @@ const InteractiveMemory = () => {
                             <div className="absolute -inset-1 bg-gradient-to-r from-pink-600 to-purple-600 rounded-full blur-xl opacity-30 group-hover:opacity-100 transition duration-500"></div>
                             
                             <div className="relative px-14 py-7 bg-black/80 backdrop-blur-2xl border border-white/10 rounded-full flex items-center gap-5 shadow-2xl">
-                                <span className="text-white text-2xl md:text-5xl font-black font-arabic tracking-tight">
+                                <span className="text-white text-xl md:text-5xl font-black font-arabic tracking-tight">
                                     أجمل حكاية في <span className="text-pink-500 italic drop-shadow-[0_0_15px_rgba(236,72,153,0.5)]">عُمري</span>
                                 </span>
                                 <motion.div
